@@ -94,7 +94,7 @@ function StackNavbar() {
             <button type="button" class="btn btn-outline-primary">
               Log in
             </button>
-            <button type="button" class="btn btn-outline-primary">
+            <button type="button" class="btn btn-primary">
               Sign up
             </button>
           </div>
